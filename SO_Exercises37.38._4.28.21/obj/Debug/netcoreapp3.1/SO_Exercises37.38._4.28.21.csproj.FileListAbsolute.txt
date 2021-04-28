@@ -1,0 +1,13 @@
+C:\Users\ocono\source\repos\SO_Exercises37.38._4.28.21\SO_Exercises37.38._4.28.21\bin\Debug\netcoreapp3.1\SO_Exercises37.38._4.28.21.exe
+C:\Users\ocono\source\repos\SO_Exercises37.38._4.28.21\SO_Exercises37.38._4.28.21\bin\Debug\netcoreapp3.1\SO_Exercises37.38._4.28.21.deps.json
+C:\Users\ocono\source\repos\SO_Exercises37.38._4.28.21\SO_Exercises37.38._4.28.21\bin\Debug\netcoreapp3.1\SO_Exercises37.38._4.28.21.runtimeconfig.json
+C:\Users\ocono\source\repos\SO_Exercises37.38._4.28.21\SO_Exercises37.38._4.28.21\bin\Debug\netcoreapp3.1\SO_Exercises37.38._4.28.21.runtimeconfig.dev.json
+C:\Users\ocono\source\repos\SO_Exercises37.38._4.28.21\SO_Exercises37.38._4.28.21\bin\Debug\netcoreapp3.1\SO_Exercises37.38._4.28.21.dll
+C:\Users\ocono\source\repos\SO_Exercises37.38._4.28.21\SO_Exercises37.38._4.28.21\bin\Debug\netcoreapp3.1\SO_Exercises37.38._4.28.21.pdb
+C:\Users\ocono\source\repos\SO_Exercises37.38._4.28.21\SO_Exercises37.38._4.28.21\obj\Debug\netcoreapp3.1\SO_Exercises37.38._4.28.21.csprojAssemblyReference.cache
+C:\Users\ocono\source\repos\SO_Exercises37.38._4.28.21\SO_Exercises37.38._4.28.21\obj\Debug\netcoreapp3.1\SO_Exercises37.38._4.28.21.AssemblyInfoInputs.cache
+C:\Users\ocono\source\repos\SO_Exercises37.38._4.28.21\SO_Exercises37.38._4.28.21\obj\Debug\netcoreapp3.1\SO_Exercises37.38._4.28.21.AssemblyInfo.cs
+C:\Users\ocono\source\repos\SO_Exercises37.38._4.28.21\SO_Exercises37.38._4.28.21\obj\Debug\netcoreapp3.1\SO_Exercises37.38._4.28.21.csproj.CoreCompileInputs.cache
+C:\Users\ocono\source\repos\SO_Exercises37.38._4.28.21\SO_Exercises37.38._4.28.21\obj\Debug\netcoreapp3.1\SO_Exercises37.38._4.28.21.dll
+C:\Users\ocono\source\repos\SO_Exercises37.38._4.28.21\SO_Exercises37.38._4.28.21\obj\Debug\netcoreapp3.1\SO_Exercises37.38._4.28.21.pdb
+C:\Users\ocono\source\repos\SO_Exercises37.38._4.28.21\SO_Exercises37.38._4.28.21\obj\Debug\netcoreapp3.1\SO_Exercises37.38._4.28.21.genruntimeconfig.cache
